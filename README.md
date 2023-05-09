@@ -1,4 +1,4 @@
-# DogbreedImageClassification
+# Dog Breed ImageClassification
 
 ## Overview : 
 This project is aimed at building an image classification model that can classify different breeds of dogs based on their images. The project uses  CNN architectures  to train a model that can accurately identify the breed of a dog from a given image. Trained 5 different architecture on this datasset - **CNN Custom Model** ,**ResNet50** , **MobileNET** ,**DenseNet201** and **InceptionV3**. Got Highest **Accuracy** of **99 %**  , **F1-Score 99 %** , **Precision and Recalll of 99%** With **DenseNET201**.
