@@ -56,7 +56,7 @@ Following table shows the comparision of results :
 
 ## How to  Models locally : 
 
-- clone this repo - `$ git clone --` 
+- clone this repo - `$ git clone https://github.com/Vinayakmane47/DogbreedImageClassification.git` 
 - create a environment - `$ git clone conda create -n env python=3.10 -y` 
 - install requirements - `$ pip install -r requirements.txt` 
 - run custom cnn model - `$ python custom_cnn.py` 
