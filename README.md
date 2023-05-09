@@ -54,6 +54,24 @@ Following table shows the comparision of results :
 | InceptionNetV3 | 98.53 % | 98.53 % | 98.59 % | 98.53 % | 0.0543 | 0.03097 |
 
 
+## How to  Models locally : 
+
+- clone this repo - `$ git clone --` 
+- create a environment - `$ git clone conda create -n env python=3.10 -y` 
+- install requirements - `$ pip install -r requirements.txt` 
+- run custom cnn model - `$ python custom_cnn.py` 
+- fine tune resnet50 model - `$ python resnet50.py` 
+- fine tune mobilenet model - `$ python mobilenet.py` 
+- fine tune densenet201 model - `$ python densenet.py` 
+- fine tune inceptionnetv3 model - `$ python inceptionnet.py`
+
+
+## Make Predictions : 
+
+- run predict.py - `$ python predict.py` 
+
+
+
 
 
 
